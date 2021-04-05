@@ -14,7 +14,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/Everton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=blank)](https://www.linkedin.com/in/everton-matheus/https://www.linkedin.com/in/everton-matheus/)  [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:evertonmatheusstorres@hotmail.com)  [![insta](https://img.shields.io/badge/evertonmatheusv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//)   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contasteto@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Everton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=blank)](https://www.linkedin.com/in/everton-matheus/https://www.linkedin.com/in/everton-matheus/)  [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:evertonmatheusstorres@hotmail.com)  [![insta](https://img.shields.io/badge/evertonmatheusv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//)   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonmatheus.dev@gmail.com)
 
 ------
 
